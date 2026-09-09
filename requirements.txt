@@ -4,3 +4,10 @@ numpy
 plotly
 scikit-learn
 weasyprint
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+weasyprint
+statsmodels
